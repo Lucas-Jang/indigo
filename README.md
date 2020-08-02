@@ -58,7 +58,7 @@ and lot of other options, like width, projects, pages, read-time, tags, related 
 
 ## How To?
 
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+Check the [FAQ](./FAQ.md) if you have any doubt or problem
 
 ---
 ## License
